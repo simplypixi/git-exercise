@@ -7,5 +7,7 @@ dist
 dist.zip
 .vagrant
 
+*.log
+
 app/src/generated
 app/images/generated
